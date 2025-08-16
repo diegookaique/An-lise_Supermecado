@@ -1,5 +1,5 @@
-# analise_supermecado
-Análise de Descontos e Preços por Categoria da Base de Supermecado
+# analise_supermercado
+Análise de Descontos e Preços por Categoria da Base de Supermercado
 
 # Este projeto analisa os preços normais e os descontos aplicados em diferentes categorias e marcas. A seguir, apresentamos três gráficos que ilustram os dados.
 
